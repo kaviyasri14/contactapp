@@ -41,13 +41,13 @@ class App extends React.Component {
       selectedContacts: [],
       showallchecked: false,
       curuser: {
-        id: 1,
-        Name: "Kaviya",
-        Description: "Software Engineer",
-        Email: "kaviyasri14@gmai.com",
-        Phone_Number: 9952090402,
-        Company: "Virtusa",
-        Address: "Periyar Nagar,Chennai-600082"
+        "id": 1,
+        "Name": "Mike Huston",
+        "Description": "Software Engineer",
+        "Email": "mikehust14@gmail.com",
+        "Phone_Number": 9956090402,
+        "Company": "Estara",
+        "Address": "Wheels street,Chennai-600082"
       }
     };
     this.addcnct = this.addcnct.bind(this);

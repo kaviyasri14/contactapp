@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "Name": "Mike Huston",
+    "Description": "Software Engineer",
+    "Email": "mikehust14@gmail.com",
+    "Phone_Number": 9956090402,
+    "Company": "Estara",
+    "Address": "Wheels street,Chennai-600082"
+  },
+  {
+    "id": 2,
+    "Name": " Ronniee RR",
+    "Description": "QA",
+    "Email": "ronniee@rnw.com",
+    "Phone_Number": 9876543210,
+    "Company": "Alibaba.co",
+    "Address": "Four Square ,Newyork"
+  },
+  {
+    "id": 3,
+    "Name": "Amazonia",
+    "Description": "L1 Developer",
+    "Email": "amazonia@bfc.com",
+    "Phone_Number": 9565431524,
+    "Company": "Turag.td",
+    "Address": "LANE 4,Mumbai-600082"
+  },
+  {
+    "id": 4,
+    "Name": "XYZ",
+    "Description": "Software Engineer",
+    "Email": "kaviyasri14@gmai.com",
+    "Phone_Number": 9952090402,
+    "Company": "BA buliders",
+    "Address": "Periyar Nagar,Chennai-600082"
+  },
+  {
+    "id": 5,
+    "Name": "Jennifer Pattrick",
+    "Description": "Analyst",
+    "Email": "patrick@abc.com",
+    "Phone_Number": 8582963471,
+    "Company": "Amazonia",
+    "Address": "Texas,USA"
+  },
+  {
+    "id": 6,
+    "Name": "Joey",
+    "Description": "DBA",
+    "Email": "joeyk@abc.com",
+    "Phone_Number": 8582963471,
+    "Company": "Amazonia",
+    "Address": "Texas,USA"
+  }
+]

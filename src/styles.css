@@ -1,0 +1,124 @@
+.App {
+  font-family: sans-serif;
+  padding-left: 5%;
+}
+.pink {
+  background-color: deeppink;
+  margin: 3px;
+}
+.yellow {
+  background-color: orange;
+  margin: 3px;
+}
+
+.green {
+  background-color: rgb(66, 201, 66);
+  margin: 3px;
+}
+.paper {
+  padding: 10px;
+  text-align: "center";
+  color: lightgray;
+}
+.root {
+  flex-grow: 1;
+}
+.group1 {
+  display: inline-block;
+  margin: 3px;
+}
+.serchbar fieldset {
+  border-radius: 50;
+}
+.cntacttile {
+  display: inline;
+}
+.contacttable {
+  width: 100%;
+}
+th {
+  margin-left: 0;
+}
+.rowselected {
+  border-color: pink;
+}
+.rowselected {
+  background-color: #dbe9f1;
+}
+tr {
+  cursor: pointer;
+}
+.MuiOutlinedInput-root {
+  border-radius: 25px !important;
+}
+
+.editdet {
+  padding: 70px !important;
+}
+
+.editdet > td {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  padding: 10px 30px 5px 15px;
+}
+
+table tr td:nth-child(1) {
+  color: rgba(0, 0, 0, 0.34);
+  font-weight: bold;
+}
+.editdet > td:nth-child(2) {
+  word-break: break-word;
+}
+
+table tr td:nth-child(2) {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.87);
+}
+.profile {
+  text-align: center;
+}
+.avataricon {
+  margin: 10% 0 0 50%;
+  transform: scale(1.5) !important;
+}
+.profile > span:nth-child(odd) {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 20px;
+  display: block;
+}
+.profile > span:nth-child(4) {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.34);
+  font-size: 15px;
+  display: block;
+  padding-bottom: 40px;
+}
+.balancestyle {
+  color: #fe6b8b;
+  font-size: 30px;
+}
+.iconrotate {
+  transform: rotate(90deg);
+}
+.profileicons {
+  display: inline-flex;
+  margin-left: 45%;
+  margin: 5% 0 5% 45%;
+  transform: scale(1.5);
+}
+.pencilprofile {
+  margin-top: 10px;
+  margin-right: 1%;
+}
+.searchheader {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.searchcontent {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.34);
+  font-weight: bold;
+  padding-bottom: 2%;
+}
